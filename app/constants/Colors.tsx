@@ -1,0 +1,26 @@
+export default {
+    primary: {
+        black: '#1B1E28',
+        dark: '#2A3850',
+        indigo: '#42436B',
+        orange: '#F59778',
+        pink: '#F1486A',
+        white: '#fff',
+        wine: '#984063',
+    },
+    gray: {
+        five: '#F9FAFB',
+        ten: '#F4F5F7',
+        twenty: '#E5E7EB',
+        thirty: '#D2D6DC',
+        fourHundred: '#9FA6B2',
+        fiveHundred: '#6B7280',
+        sixeHundred: '#4B5563',
+        sevenHundred: '#374151',
+        eightHundred: '#252F3F',
+        nineHundred: '#161E2E',
+    },
+    green: '#28df99',
+    orange: '#ffa45b',
+    red: '#ff4646',
+}

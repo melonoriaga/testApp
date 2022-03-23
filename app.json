@@ -1,0 +1,28 @@
+{
+    "expo": {
+        "name": "Tevi",
+        "slug": "Tevi",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/tevi-entrenar.appspot.com/o/icons%2Ficono.ico?alt=media&token=9506b17f-a0c9-450c-8f86-344afe7d785d",
+        "scheme": "myapp",
+        "userInterfaceStyle": "automatic",
+        "splash": {
+            "image": "./assets/images/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true
+        },
+        "web": {
+            "favicon": "./assets/images/favicon.png"
+        },
+        "description": "app de gimnasios y entrenadores",
+        "githubUrl": "https://github.com/melonoriaga/gym-gestion-app"
+    }
+}
